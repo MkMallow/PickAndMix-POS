@@ -1,0 +1,5 @@
+MkMallow-LabelPrinter/
+│  requirements.txt
+│  auto_print.py          ← 你的主脚本（或 listen_space.pyw）
+│  README.md              ← 说明文档
+└─ docs/
